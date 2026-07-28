@@ -1,0 +1,6 @@
+{
+  "name": "Flavoria",
+  "description": "Ultra Premium, Modern Luxury, Michelin-Star Inspired Restaurant App and Interactive Showcase with AI Restaurant Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
