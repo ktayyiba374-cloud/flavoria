@@ -5,9 +5,9 @@ A modern, fully animated, and feature-rich SaaS platform built with React, TypeS
 Flavora delivers a premium digital experience with stunning animations, multiple pages, responsive design, and an intelligent AI chatbot. Designed with a focus on creativity, performance, and modern UI/UX principles.
 
 🌐 Live Demo:
-
-https://flavoria.vercel.app/
-
+[
+https://flavoria-pi.vercel.app/
+](https://flavoria-pi.vercel.app/)
 ---
 
 # 🚀 Features
